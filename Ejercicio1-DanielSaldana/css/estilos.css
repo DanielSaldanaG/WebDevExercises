@@ -1,0 +1,28 @@
+header {
+    background:#f1636a;
+    color:#fff;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+content {
+    color:#0043ff
+}
+
+footer {
+    background:#f1636a;
+    color:#fff;
+}
+
+p.footer {
+    font-weight: bolder;
+    font-size: 200%
+
+}
+
+a {
+  color: white;
+}
